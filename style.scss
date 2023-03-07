@@ -1,0 +1,22 @@
+$color1: rgb(248, 136, 179);
+$color2: rgba(68, 212, 87, 0.3);;
+
+* {
+    background-color: $color1;
+}
+
+body{
+    text-align: center;
+    font-family: "Helvetica", sans-serif;
+}
+
+.container{
+    background-color: $color2;
+    margin: 0px auto;
+    padding: 0px;
+    width: 800px;
+    height: 600px;
+    .axis{
+        font-size: small;
+    }
+}

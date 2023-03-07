@@ -1,0 +1,21 @@
+* {
+  background-color: #f888b3;
+}
+
+body {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+
+.container {
+  background-color: rgba(68, 212, 87, 0.3);
+  margin: 0px auto;
+  padding: 0px;
+  width: 800px;
+  height: 600px;
+}
+
+.container .axis {
+  font-size: small;
+}
+/*# sourceMappingURL=style.css.map */
