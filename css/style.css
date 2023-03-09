@@ -8,14 +8,29 @@ body {
 }
 
 .container {
-  background-color: rgba(68, 212, 87, 0.3);
+  border-style: solid;
   margin: 0px auto;
-  padding: 0px;
+  padding-top: 0px;
   width: 800px;
   height: 600px;
 }
 
 .container .axis {
-  font-size: small;
+  font-size: smaller;
+}
+
+.ylabelText {
+  font-style: bold;
+  font-size: 20px;
+}
+
+.titleText {
+  font-style: bold;
+  font-size: 30px;
+}
+
+.supTitleText {
+  font-style: bold;
+  font-size: 25px;
 }
 /*# sourceMappingURL=style.css.map */
