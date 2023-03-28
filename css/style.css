@@ -1,5 +1,5 @@
 * {
-  background-color: #f888b3;
+  background-color: rgb(248, 136, 179);
 }
 
 body {
@@ -8,13 +8,11 @@ body {
 }
 
 .container {
-  border-style: solid;
   margin: 0px auto;
   padding-top: 0px;
   width: 800px;
   height: 600px;
 }
-
 .container .axis {
   font-size: smaller;
 }
@@ -32,5 +30,4 @@ body {
 .supTitleText {
   font-style: bold;
   font-size: 25px;
-}
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
